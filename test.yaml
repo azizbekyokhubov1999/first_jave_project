@@ -1,0 +1,10 @@
+version: "1.0"
+
+profile:
+  name: test.starter
+
+
+projectJDK: "25"
+
+
+linter: jetbrains/qodana-jvm-community:2025.2
